@@ -10,3 +10,6 @@
 #REDDIT
 127.0.0.1 id.rlcdn.com
 127.0.0.1 ad-delivery.net
+127.0.0.1 alb.reddit.com
+127.0.0.1 w3-reporting.reddit.com
+
