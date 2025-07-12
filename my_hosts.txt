@@ -13,3 +13,13 @@
 127.0.0.1 alb.reddit.com
 127.0.0.1 w3-reporting.reddit.com
 
+#recommendation from chatgpt
+127.0.0.1 firebase-settings.crashlytics.com   # crash reporting
+127.0.0.1 app-measurement.com                 # analytics
+127.0.0.1 app-measurement.net                 # analytics
+127.0.0.1 www.google-analytics.com            # analytics
+127.0.0.1 ssl.google-analytics.com            # analytics
+127.0.0.1 pagead2.googlesyndication.com       # ads
+127.0.0.1 googleads.g.doubleclick.net         # ads
+127.0.0.1 ads.google.com                      # ads
+
