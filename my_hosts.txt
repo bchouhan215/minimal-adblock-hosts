@@ -1,4 +1,12 @@
 # Minimal AdAway Blocklist
+
+#GOOGLE
 127.0.0.1 csp.withgoogle.com
-127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 googleadservices.com
+
+#CHATGPT
+127.0.0.1 browser-intake-datadoghq.com
+
+#REDDIT
+127.0.0.1 id.rlcdn.com
+127.0.0.1 ad-delivery.net
