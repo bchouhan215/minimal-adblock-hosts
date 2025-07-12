@@ -28,3 +28,5 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 youtubeads.googleapis.com
+127.0.0.1 s.youtube.com
+127.0.0.1 youtubei.googleapis.com
