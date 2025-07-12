@@ -22,4 +22,5 @@
 127.0.0.1 pagead2.googlesyndication.com       # ads
 127.0.0.1 googleads.g.doubleclick.net         # ads
 127.0.0.1 ads.google.com                      # ads
+127.0.0.1 firebaseinstallations.googleapis.com   # device ID registration
 
