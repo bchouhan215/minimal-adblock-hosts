@@ -1,0 +1,4 @@
+# Minimal AdAway Blocklist
+127.0.0.1 csp.withgoogle.com
+127.0.0.1 browser-intake-datadoghq.com
+127.0.0.1 googleadservices.com
