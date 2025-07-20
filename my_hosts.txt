@@ -8,11 +8,15 @@
 127.0.0.1 browser-intake-datadoghq.com
 
 #REDDIT
-127.0.0.1 id.rlcdn.com
-127.0.0.1 ad-delivery.net
-127.0.0.1 alb.reddit.com
-127.0.0.1 w3-reporting.reddit.com
+0.0.0.0 id.rlcdn.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 alb.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 
 #recommendation from Railone
 0.0.0.0 appsec.cris.org.in
 0.0.0.0 *.appsec.cris.org.in
+
+#recommendation from yono
+0.0.0.0 threatcast.guardsquare.com
+0.0.0.0 *.threatcast.guardsquare.com
