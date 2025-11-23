@@ -1,4 +1,4 @@
 # Minimal AdAway Blocklist
 
-#reddit
-reddit.com##div[data-testid="post-container"]:has-text(Promoted)
+#Railone
+127.0.0.1 *.appsec.cris.org.in
